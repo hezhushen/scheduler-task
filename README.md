@@ -724,7 +724,7 @@ public class Azkaban {
 
    - method
 
-     get
+     post
 
    - response
 
